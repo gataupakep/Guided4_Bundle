@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guided4_Bundle</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="fakultas">Fakultas</string>
+</resources>
